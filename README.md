@@ -13,8 +13,7 @@
 ### 🔍 Quantum Search for 5G Network Optimization
 - **Description:** A simulation project exploring how Grover’s quantum search algorithm can improve frequency assignment in small-scale 5G networks, modeled using graph coloring theory.
 - **Tools Used:** Python, Qiskit, Google Colab
-- **View Project:** [Google Colab Notebook](https://colab.research.google.com/drive/14rQXM7M23afAoeJN5bnVxrpIpzAag9-Q?usp=sharing)
----
+- **View Project:** [Google Colab Notebook](https://colab.research.google.com/drive/1mFfd0HQmGj-sh3t1usLMHiMA_XpmX0wE?usp=sharing)
 
 ## 🛠️ Skills
 - Python
